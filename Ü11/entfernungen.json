@@ -1,0 +1,2014 @@
+{
+    "Aachen": {
+        "Koordinaten": {
+            "Breite": "50N47", 
+            "Länge": "06E05"
+        }, 
+        "Nachbarn": {
+            "Düren": 32.4, 
+            "Erftstadt": 56.4, 
+            "Eschweiler": 16.8, 
+            "Grevenbroich": 57.6
+        }
+    }, 
+    "Aalen": {
+        "Koordinaten": {
+            "Breite": "48N50", 
+            "Länge": "10E06"
+        }, 
+        "Nachbarn": {
+            "Augsburg": 92.4, 
+            "Göppingen": 42.0, 
+            "Ingolstadt": 117.6, 
+            "Ludwigsburg": 80.4, 
+            "Nürnberg": 117.6, 
+            "Ulm": 57.6, 
+            "Waiblingen": 69.6
+        }
+    }, 
+    "Ahlen": {
+        "Koordinaten": {
+            "Breite": "51N46", 
+            "Länge": "07E53"
+        }, 
+        "Nachbarn": {
+            "Bergkamen": 27.6, 
+            "Lippstadt": 38.4, 
+            "Lünen": 37.2, 
+            "Münster": 33.6, 
+            "Rheine": 78.0, 
+            "Unna": 34.8
+        }
+    }, 
+    "Arnsberg": {
+        "Koordinaten": {
+            "Breite": "51N23", 
+            "Länge": "08E03"
+        }, 
+        "Nachbarn": {
+            "Iserlohn": 31.2, 
+            "Lippstadt": 43.2, 
+            "Lüdenscheid": 44.4, 
+            "Unna": 38.4
+        }
+    }, 
+    "Aschaffenburg": {
+        "Koordinaten": {
+            "Breite": "49N58", 
+            "Länge": "09E09"
+        }, 
+        "Nachbarn": {
+            "Darmstadt": 44.4, 
+            "Hanau": 28.8, 
+            "Rüsselsheim": 61.2, 
+            "Würzburg": 72.0
+        }
+    }, 
+    "Augsburg": {
+        "Koordinaten": {
+            "Breite": "48N22", 
+            "Länge": "10E54"
+        }, 
+        "Nachbarn": {
+            "Aalen": 92.4, 
+            "Ingolstadt": 72.0, 
+            "Landshut": 114.0, 
+            "München": 68.4, 
+            "Ulm": 76.8
+        }
+    }, 
+    "Baden-Baden": {
+        "Koordinaten": {
+            "Breite": "48N46", 
+            "Länge": "08E14"
+        }, 
+        "Nachbarn": {
+            "Karlsruhe": 36.0, 
+            "Offenburg": 44.4, 
+            "Pforzheim": 43.2, 
+            "Sindelfingen": 67.2
+        }
+    }, 
+    "Bamberg": {
+        "Koordinaten": {
+            "Breite": "49N53", 
+            "Länge": "10E53"
+        }, 
+        "Nachbarn": {
+            "Bayreuth": 61.2, 
+            "Erfurt": 148.8, 
+            "Erlangen": 38.4, 
+            "Schweinfurt": 58.8, 
+            "Würzburg": 80.4
+        }
+    }, 
+    "Bayreuth": {
+        "Koordinaten": {
+            "Breite": "49N56", 
+            "Länge": "11E34"
+        }, 
+        "Nachbarn": {
+            "Bamberg": 61.2, 
+            "Erlangen": 68.4, 
+            "Hof": 56.4, 
+            "Nürnberg": 79.2
+        }
+    }, 
+    "Bergkamen": {
+        "Koordinaten": {
+            "Breite": "51N37", 
+            "Länge": "07E38"
+        }, 
+        "Nachbarn": {
+            "Ahlen": 27.6, 
+            "Dortmund": 20.4, 
+            "Lünen": 9.6, 
+            "Rheine": 87.6, 
+            "Unna": 13.2
+        }
+    }, 
+    "Berlin": {
+        "Koordinaten": {
+            "Breite": "52N30", 
+            "Länge": "13E26"
+        }, 
+        "Nachbarn": {
+            "Cottbus": 126.0, 
+            "Dresden": 198.0, 
+            "Greifswald": 211.2, 
+            "Hamburg": 304.8, 
+            "Neubrandenburg": 140.4, 
+            "Potsdam": 31.2, 
+            "Schwerin": 217.2
+        }
+    }, 
+    "Bielefeld": {
+        "Koordinaten": {
+            "Breite": "52N01", 
+            "Länge": "08E31"
+        }, 
+        "Nachbarn": {
+            "Detmold": 31.2, 
+            "Gütersloh": 21.6, 
+            "Herford": 18.0, 
+            "Osnabrück": 50.4, 
+            "Paderborn": 45.6
+        }
+    }, 
+    "Bochum": {
+        "Koordinaten": {
+            "Breite": "51N29", 
+            "Länge": "07E13"
+        }, 
+        "Nachbarn": {
+            "Castrop-Rauxel": 12.0, 
+            "Gelsenkirchen": 12.0, 
+            "Hattingen": 10.8, 
+            "Recklinghausen": 16.8, 
+            "Witten": 10.8
+        }
+    }, 
+    "Bonn": {
+        "Koordinaten": {
+            "Breite": "50N44", 
+            "Länge": "07E06"
+        }, 
+        "Nachbarn": {
+            "Euskirchen": 27.6, 
+            "Hürth": 26.4, 
+            "Koblenz": 66.0, 
+            "Köln": 28.8, 
+            "Neuwied": 50.4, 
+            "Troisdorf": 12.0
+        }
+    }, 
+    "Bottrop": {
+        "Koordinaten": {
+            "Breite": "51N32", 
+            "Länge": "06E55"
+        }, 
+        "Nachbarn": {
+            "Dinslaken": 15.6, 
+            "Dorsten": 20.4, 
+            "Duisburg": 16.8, 
+            "Gelsenkirchen": 15.6, 
+            "Gladbeck": 8.4, 
+            "Moers": 22.8, 
+            "Wesel": 31.2
+        }
+    }, 
+    "Braunschweig": {
+        "Koordinaten": {
+            "Breite": "52N16", 
+            "Länge": "10E31"
+        }, 
+        "Nachbarn": {
+            "Celle": 58.8, 
+            "Hildesheim": 48.0, 
+            "Magdeburg": 90.0, 
+            "Wolfenbüttel": 13.2, 
+            "Wolfsburg": 30.0
+        }
+    }, 
+    "Bremen": {
+        "Koordinaten": {
+            "Breite": "53N04", 
+            "Länge": "08E48"
+        }, 
+        "Nachbarn": {
+            "Bremerhaven": 60.0, 
+            "Cuxhaven": 103.2, 
+            "Delmenhorst": 14.4, 
+            "Garbsen": 112.8, 
+            "Hamburg": 112.8, 
+            "Oldenburg": 46.8, 
+            "Wilhelmshaven": 74.4
+        }
+    }, 
+    "Bremerhaven": {
+        "Koordinaten": {
+            "Breite": "53N32", 
+            "Länge": "08E34"
+        }, 
+        "Nachbarn": {
+            "Bremen": 60.0, 
+            "Cuxhaven": 44.4, 
+            "Delmenhorst": 66.0, 
+            "Oldenburg": 58.8, 
+            "Wilhelmshaven": 36.0
+        }
+    }, 
+    "Castrop-Rauxel": {
+        "Koordinaten": {
+            "Breite": "51N32", 
+            "Länge": "07E18"
+        }, 
+        "Nachbarn": {
+            "Bochum": 12.0, 
+            "Dortmund": 13.2, 
+            "Lünen": 18.0, 
+            "Recklinghausen": 12.0, 
+            "Witten": 15.6
+        }
+    }, 
+    "Celle": {
+        "Koordinaten": {
+            "Breite": "52N38", 
+            "Länge": "10E05"
+        }, 
+        "Nachbarn": {
+            "Braunschweig": 58.8, 
+            "Garbsen": 46.8, 
+            "Hannover": 44.4, 
+            "Hildesheim": 62.4, 
+            "Lüneburg": 87.6, 
+            "Wolfenbüttel": 70.8, 
+            "Wolfsburg": 62.4
+        }
+    }, 
+    "Chemnitz": {
+        "Koordinaten": {
+            "Breite": "50N50", 
+            "Länge": "12E55"
+        }, 
+        "Nachbarn": {
+            "Dresden": 75.6, 
+            "Gera": 69.6, 
+            "Leipzig": 84.0, 
+            "Zwickau": 37.2
+        }
+    }, 
+    "Cottbus": {
+        "Koordinaten": {
+            "Breite": "51N46", 
+            "Länge": "14E20"
+        }, 
+        "Nachbarn": {
+            "Berlin": 126.0, 
+            "Görlitz": 96.0, 
+            "Leipzig": 170.4, 
+            "Potsdam": 133.2
+        }
+    }, 
+    "Cuxhaven": {
+        "Koordinaten": {
+            "Breite": "53N52", 
+            "Länge": "08E42"
+        }, 
+        "Nachbarn": {
+            "Bremen": 103.2, 
+            "Bremerhaven": 44.4, 
+            "Delmenhorst": 110.4, 
+            "Hamburg": 111.6, 
+            "Neumünster": 103.2, 
+            "Wilhelmshaven": 66.0
+        }
+    }, 
+    "Darmstadt": {
+        "Koordinaten": {
+            "Breite": "49N52", 
+            "Länge": "08E39"
+        }, 
+        "Nachbarn": {
+            "Aschaffenburg": 44.4, 
+            "Frankfurt (Main)": 32.4, 
+            "Hanau": 40.8, 
+            "Mainz": 36.0, 
+            "Mannheim": 52.8, 
+            "Rüsselsheim": 25.2, 
+            "Worms": 39.6
+        }
+    }, 
+    "Delmenhorst": {
+        "Koordinaten": {
+            "Breite": "53N03", 
+            "Länge": "08E37"
+        }, 
+        "Nachbarn": {
+            "Bremen": 14.4, 
+            "Bremerhaven": 66.0, 
+            "Cuxhaven": 110.4, 
+            "Oldenburg": 36.0, 
+            "Osnabrück": 114.0, 
+            "Wilhelmshaven": 73.2
+        }
+    }, 
+    "Detmold": {
+        "Koordinaten": {
+            "Breite": "51N56", 
+            "Länge": "08E53"
+        }, 
+        "Nachbarn": {
+            "Bielefeld": 31.2, 
+            "Gütersloh": 40.8, 
+            "Hameln": 43.2, 
+            "Herford": 31.2, 
+            "Paderborn": 30.0
+        }
+    }, 
+    "Dinslaken": {
+        "Koordinaten": {
+            "Breite": "51N33", 
+            "Länge": "06E44"
+        }, 
+        "Nachbarn": {
+            "Bottrop": 15.6, 
+            "Duisburg": 16.8, 
+            "Gladbeck": 20.4, 
+            "Moers": 16.8
+        }
+    }, 
+    "Dormagen": {
+        "Koordinaten": {
+            "Breite": "51N06", 
+            "Länge": "06E50"
+        }, 
+        "Nachbarn": {
+            "Düsseldorf": 16.8, 
+            "Grevenbroich": 21.6, 
+            "Hilden": 12.0, 
+            "Leverkusen": 15.6, 
+            "Pulheim": 12.0
+        }
+    }, 
+    "Dorsten": {
+        "Koordinaten": {
+            "Breite": "51N39", 
+            "Länge": "06E57"
+        }, 
+        "Nachbarn": {
+            "Bottrop": 20.4, 
+            "Gelsenkirchen": 21.8, 
+            "Gladbeck": 13.2, 
+            "Herten": 15.6, 
+            "Nordhorn": 102.0, 
+            "Wesel": 28.8
+        }
+    }, 
+    "Dortmund": {
+        "Koordinaten": {
+            "Breite": "51N31", 
+            "Länge": "07E28"
+        }, 
+        "Nachbarn": {
+            "Bergkamen": 20.4, 
+            "Castrop-Rauxel": 13.2, 
+            "Iserlohn": 27.6, 
+            "Lünen": 13.2, 
+            "Unna": 18.0, 
+            "Witten": 15.6
+        }
+    }, 
+    "Dresden": {
+        "Koordinaten": {
+            "Breite": "51N03", 
+            "Länge": "13E44"
+        }, 
+        "Nachbarn": {
+            "Berlin": 198.0, 
+            "Chemnitz": 75.6, 
+            "Görlitz": 104.4, 
+            "Leipzig": 121.2
+        }
+    }, 
+    "Duisburg": {
+        "Koordinaten": {
+            "Breite": "51N26", 
+            "Länge": "06E45"
+        }, 
+        "Nachbarn": {
+            "Bottrop": 16.8, 
+            "Dinslaken": 16.8, 
+            "Moers": 8.4, 
+            "Ratingen": 19.2, 
+            "Wesel": 32.4
+        }
+    }, 
+    "Düren": {
+        "Koordinaten": {
+            "Breite": "50N48", 
+            "Länge": "06E29"
+        }, 
+        "Nachbarn": {
+            "Aachen": 32.4, 
+            "Erftstadt": 24.0, 
+            "Eschweiler": 16.8, 
+            "Euskirchen": 30.0
+        }
+    }, 
+    "Düsseldorf": {
+        "Koordinaten": {
+            "Breite": "51N14", 
+            "Länge": "06E47"
+        }, 
+        "Nachbarn": {
+            "Dormagen": 16.8, 
+            "Hilden": 14.4, 
+            "Meerbusch": 12.0, 
+            "Neuss": 8.0, 
+            "Ratingen": 12.0
+        }
+    }, 
+    "Eisenach": {
+        "Koordinaten": {
+            "Breite": "50N58", 
+            "Länge": "10E19"
+        }, 
+        "Nachbarn": {
+            "Erfurt": 60.0, 
+            "Fulda": 79.2, 
+            "Kassel": 81.6
+        }
+    }, 
+    "Erftstadt": {
+        "Koordinaten": {
+            "Breite": "50N48", 
+            "Länge": "06E46"
+        }, 
+        "Nachbarn": {
+            "Aachen": 56.4, 
+            "Düren": 24.0, 
+            "Eschweiler": 39.6, 
+            "Euskirchen": 19.2, 
+            "Hürth": 10.3, 
+            "Köln": 21.6
+        }
+    }, 
+    "Erfurt": {
+        "Koordinaten": {
+            "Breite": "50N58", 
+            "Länge": "11E01"
+        }, 
+        "Nachbarn": {
+            "Bamberg": 148.8, 
+            "Eisenach": 60.0, 
+            "Jena": 45.6
+        }
+    }, 
+    "Erlangen": {
+        "Koordinaten": {
+            "Breite": "49N35", 
+            "Länge": "11E00"
+        }, 
+        "Nachbarn": {
+            "Bamberg": 38.4, 
+            "Bayreuth": 68.4, 
+            "Nürnberg": 19.2, 
+            "Regensburg": 121.2, 
+            "Schweinfurt": 90.0, 
+            "Würzburg": 94.8
+        }
+    }, 
+    "Eschweiler": {
+        "Koordinaten": {
+            "Breite": "50N49", 
+            "Länge": "06E16"
+        }, 
+        "Nachbarn": {
+            "Aachen": 16.8, 
+            "Düren": 16.8, 
+            "Erftstadt": 39.6, 
+            "Grevenbroich": 43.2
+        }
+    }, 
+    "Euskirchen": {
+        "Koordinaten": {
+            "Breite": "50N39", 
+            "Länge": "06E47"
+        }, 
+        "Nachbarn": {
+            "Bonn": 27.6, 
+            "Düren": 30.0, 
+            "Erftstadt": 19.2, 
+            "Hürth": 27.6, 
+            "Neuwied": 64.8, 
+            "Trier": 122.4
+        }
+    }, 
+    "Flensburg": {
+        "Koordinaten": {
+            "Breite": "54N47", 
+            "Länge": "09E26"
+        }, 
+        "Nachbarn": {
+            "Kiel": 80.4, 
+            "Neumünster": 104.4
+        }
+    }, 
+    "Frankfurt (Main)": {
+        "Koordinaten": {
+            "Breite": "50N06", 
+            "Länge": "08E40"
+        }, 
+        "Nachbarn": {
+            "Darmstadt": 32.4, 
+            "Gießen": 61.2, 
+            "Hanau": 19.2, 
+            "Koblenz": 97.2, 
+            "Mainz": 38.4, 
+            "Wiesbaden": 37.2
+        }
+    }, 
+    "Freiburg": {
+        "Koordinaten": {
+            "Breite": "47N59", 
+            "Länge": "07E51"
+        }, 
+        "Nachbarn": {
+            "Friedrichshafen": 153.6, 
+            "Konstanz": 127.2, 
+            "Offenburg": 64.8
+        }
+    }, 
+    "Friedrichshafen": {
+        "Koordinaten": {
+            "Breite": "47N38", 
+            "Länge": "09E28"
+        }, 
+        "Nachbarn": {
+            "Freiburg": 153.6, 
+            "Konstanz": 26.4, 
+            "Reutlingen": 112.8, 
+            "Ulm": 110.4, 
+            "Villingen-Schwenningen": 108.0
+        }
+    }, 
+    "Fulda": {
+        "Koordinaten": {
+            "Breite": "50N33", 
+            "Länge": "09E40"
+        }, 
+        "Nachbarn": {
+            "Eisenach": 79.2, 
+            "Hanau": 84.0, 
+            "Marburg": 84.0, 
+            "Schweinfurt": 81.6, 
+            "Würzburg": 103.2
+        }
+    }, 
+    "Garbsen": {
+        "Koordinaten": {
+            "Breite": "52N25", 
+            "Länge": "09E35"
+        }, 
+        "Nachbarn": {
+            "Bremen": 112.8, 
+            "Celle": 46.8, 
+            "Hameln": 46.8, 
+            "Hannover": 10.9, 
+            "Hildesheim": 45.6
+        }
+    }, 
+    "Gelsenkirchen": {
+        "Koordinaten": {
+            "Breite": "51N30", 
+            "Länge": "07E05"
+        }, 
+        "Nachbarn": {
+            "Bochum": 12.0, 
+            "Bottrop": 15.6, 
+            "Dorsten": 21.8, 
+            "Gladbeck": 11.6, 
+            "Herten": 14.9, 
+            "Recklinghausen": 14.5
+        }
+    }, 
+    "Gera": {
+        "Koordinaten": {
+            "Breite": "50N52", 
+            "Länge": "12E04"
+        }, 
+        "Nachbarn": {
+            "Chemnitz": 69.6, 
+            "Jena": 42.0, 
+            "Leipzig": 70.8, 
+            "Plauen": 48.0, 
+            "Zwickau": 38.4
+        }
+    }, 
+    "Gießen": {
+        "Koordinaten": {
+            "Breite": "50N35", 
+            "Länge": "08E40"
+        }, 
+        "Nachbarn": {
+            "Frankfurt (Main)": 61.2, 
+            "Hanau": 63.6, 
+            "Koblenz": 93.6, 
+            "Marburg": 32.4, 
+            "Wetzlar": 13.2
+        }
+    }, 
+    "Gladbeck": {
+        "Koordinaten": {
+            "Breite": "51N35", 
+            "Länge": "06E59"
+        }, 
+        "Nachbarn": {
+            "Bottrop": 8.4, 
+            "Dinslaken": 20.4, 
+            "Dorsten": 13.2, 
+            "Gelsenkirchen": 11.6, 
+            "Herten": 13.2
+        }
+    }, 
+    "Greifswald": {
+        "Koordinaten": {
+            "Breite": "54N05", 
+            "Länge": "13E23"
+        }, 
+        "Nachbarn": {
+            "Berlin": 211.2, 
+            "Neubrandenburg": 70.8, 
+            "Rostock": 97.2, 
+            "Stralsund": 33.6
+        }
+    }, 
+    "Grevenbroich": {
+        "Koordinaten": {
+            "Breite": "51N05", 
+            "Länge": "06E35"
+        }, 
+        "Nachbarn": {
+            "Aachen": 57.6, 
+            "Dormagen": 21.6, 
+            "Eschweiler": 43.2, 
+            "Mönchengladbach": 19.2, 
+            "Neuss": 16.8, 
+            "Pulheim": 20.4
+        }
+    }, 
+    "Gummersbach": {
+        "Koordinaten": {
+            "Breite": "51N02", 
+            "Länge": "07E33"
+        }, 
+        "Nachbarn": {
+            "Lüdenscheid": 24.0, 
+            "Remscheid": 34.8, 
+            "Siegen": 45.6, 
+            "Troisdorf": 43.2, 
+            "Wuppertal": 43.2
+        }
+    }, 
+    "Göppingen": {
+        "Koordinaten": {
+            "Breite": "48N42", 
+            "Länge": "09E39"
+        }, 
+        "Nachbarn": {
+            "Aalen": 42.0, 
+            "Reutlingen": 48.0, 
+            "Ulm": 50.4, 
+            "Waiblingen": 36.0
+        }
+    }, 
+    "Görlitz": {
+        "Koordinaten": {
+            "Breite": "51N09", 
+            "Länge": "14E59"
+        }, 
+        "Nachbarn": {
+            "Cottbus": 96.0, 
+            "Dresden": 104.4
+        }
+    }, 
+    "Göttingen": {
+        "Koordinaten": {
+            "Breite": "51N32", 
+            "Länge": "09E56"
+        }, 
+        "Nachbarn": {
+            "Hameln": 88.8, 
+            "Hildesheim": 81.6, 
+            "Kassel": 45.6, 
+            "Wolfenbüttel": 98.4
+        }
+    }, 
+    "Gütersloh": {
+        "Koordinaten": {
+            "Breite": "51N54", 
+            "Länge": "08E22"
+        }, 
+        "Nachbarn": {
+            "Bielefeld": 21.6, 
+            "Detmold": 40.8, 
+            "Lippstadt": 31.2, 
+            "Münster": 62.4, 
+            "Osnabrück": 55.2, 
+            "Paderborn": 39.6
+        }
+    }, 
+    "Halle": {
+        "Koordinaten": {
+            "Breite": "51N29", 
+            "Länge": "11E58"
+        }, 
+        "Nachbarn": {
+            "Jena": 82.8, 
+            "Leipzig": 36.0, 
+            "Magdeburg": 90.0, 
+            "Potsdam": 148.8
+        }
+    }, 
+    "Hamburg": {
+        "Koordinaten": {
+            "Breite": "53N33", 
+            "Länge": "09E59"
+        }, 
+        "Nachbarn": {
+            "Berlin": 304.8, 
+            "Bremen": 112.8, 
+            "Cuxhaven": 111.6, 
+            "Lübeck": 69.6, 
+            "Lüneburg": 50.4, 
+            "Norderstedt": 19.2, 
+            "Potsdam": 290.4, 
+            "Schwerin": 112.8
+        }
+    }, 
+    "Hameln": {
+        "Koordinaten": {
+            "Breite": "52N06", 
+            "Länge": "09E21"
+        }, 
+        "Nachbarn": {
+            "Detmold": 43.2, 
+            "Garbsen": 46.8, 
+            "Göttingen": 88.8, 
+            "Hannover": 45.6, 
+            "Hildesheim": 50.4
+        }
+    }, 
+    "Hanau": {
+        "Koordinaten": {
+            "Breite": "50N09", 
+            "Länge": "08E55"
+        }, 
+        "Nachbarn": {
+            "Aschaffenburg": 28.8, 
+            "Darmstadt": 40.8, 
+            "Frankfurt (Main)": 19.2, 
+            "Fulda": 84.0, 
+            "Gießen": 63.6, 
+            "Rüsselsheim": 45.6, 
+            "Würzburg": 98.4
+        }
+    }, 
+    "Hannover": {
+        "Koordinaten": {
+            "Breite": "52N23", 
+            "Länge": "09E44"
+        }, 
+        "Nachbarn": {
+            "Celle": 44.4, 
+            "Garbsen": 10.9, 
+            "Hameln": 45.6, 
+            "Hildesheim": 34.8
+        }
+    }, 
+    "Hattingen": {
+        "Koordinaten": {
+            "Breite": "51N24", 
+            "Länge": "07E11"
+        }, 
+        "Nachbarn": {
+            "Bochum": 10.8, 
+            "Velbert": 12.0, 
+            "Witten": 14.4, 
+            "Wuppertal": 16.8
+        }
+    }, 
+    "Heidelberg": {
+        "Koordinaten": {
+            "Breite": "49N25", 
+            "Länge": "08E42"
+        }, 
+        "Nachbarn": {
+            "Heilbronn": 57.6, 
+            "Karlsruhe": 61.2, 
+            "Mannheim": 21.6, 
+            "Speyer": 25.2, 
+            "Stuttgart": 96.0, 
+            "Worms": 40.8, 
+            "Würzburg": 117.6
+        }
+    }, 
+    "Heilbronn": {
+        "Koordinaten": {
+            "Breite": "49N08", 
+            "Länge": "09E13"
+        }, 
+        "Nachbarn": {
+            "Heidelberg": 57.6, 
+            "Ludwigsburg": 31.2, 
+            "Pforzheim": 56.4, 
+            "Waiblingen": 40.8
+        }
+    }, 
+    "Herford": {
+        "Koordinaten": {
+            "Breite": "52N07", 
+            "Länge": "08E40"
+        }, 
+        "Nachbarn": {
+            "Bielefeld": 18.0, 
+            "Detmold": 31.2, 
+            "Osnabrück": 54.0
+        }
+    }, 
+    "Herten": {
+        "Koordinaten": {
+            "Breite": "51N36", 
+            "Länge": "07E08"
+        }, 
+        "Nachbarn": {
+            "Dorsten": 15.6, 
+            "Gelsenkirchen": 14.9, 
+            "Gladbeck": 13.2, 
+            "Recklinghausen": 4.8
+        }
+    }, 
+    "Hilden": {
+        "Koordinaten": {
+            "Breite": "51N10", 
+            "Länge": "06E56"
+        }, 
+        "Nachbarn": {
+            "Dormagen": 12.0, 
+            "Düsseldorf": 14.4, 
+            "Leverkusen": 16.8, 
+            "Ratingen": 18.0, 
+            "Remscheid": 21.6, 
+            "Solingen": 12.0
+        }
+    }, 
+    "Hildesheim": {
+        "Koordinaten": {
+            "Breite": "52N09", 
+            "Länge": "09E56"
+        }, 
+        "Nachbarn": {
+            "Braunschweig": 48.0, 
+            "Celle": 62.4, 
+            "Garbsen": 45.6, 
+            "Göttingen": 81.6, 
+            "Hameln": 50.4, 
+            "Hannover": 34.8, 
+            "Wolfenbüttel": 46.8
+        }
+    }, 
+    "Hof": {
+        "Koordinaten": {
+            "Breite": "50N19", 
+            "Länge": "11E55"
+        }, 
+        "Nachbarn": {
+            "Bayreuth": 56.4, 
+            "Plauen": 30.0
+        }
+    }, 
+    "Hürth": {
+        "Koordinaten": {
+            "Breite": "50N52", 
+            "Länge": "06E52"
+        }, 
+        "Nachbarn": {
+            "Bonn": 26.4, 
+            "Erftstadt": 10.3, 
+            "Euskirchen": 27.6, 
+            "Köln": 10.8, 
+            "Pulheim": 18.0, 
+            "Troisdorf": 25.2
+        }
+    }, 
+    "Ingolstadt": {
+        "Koordinaten": {
+            "Breite": "48N45", 
+            "Länge": "11E25"
+        }, 
+        "Nachbarn": {
+            "Aalen": 117.6, 
+            "Augsburg": 72.0, 
+            "Landshut": 69.6, 
+            "München": 82.8, 
+            "Nürnberg": 96.0, 
+            "Passau": 182.4, 
+            "Regensburg": 66.0
+        }
+    }, 
+    "Iserlohn": {
+        "Koordinaten": {
+            "Breite": "51N22", 
+            "Länge": "07E42"
+        }, 
+        "Nachbarn": {
+            "Arnsberg": 31.2, 
+            "Dortmund": 27.6, 
+            "Lüdenscheid": 20.4, 
+            "Unna": 21.6, 
+            "Witten": 31.2
+        }
+    }, 
+    "Jena": {
+        "Koordinaten": {
+            "Breite": "50N55", 
+            "Länge": "11E35"
+        }, 
+        "Nachbarn": {
+            "Erfurt": 45.6, 
+            "Gera": 42.0, 
+            "Halle": 82.8, 
+            "Leipzig": 87.6, 
+            "Plauen": 73.2, 
+            "Zwickau": 81.6
+        }
+    }, 
+    "Kaiserslautern": {
+        "Koordinaten": {
+            "Breite": "49N20", 
+            "Länge": "07E46"
+        }, 
+        "Nachbarn": {
+            "Mannheim": 61.2, 
+            "Saarbrücken": 70.8, 
+            "Speyer": 60.0, 
+            "Trier": 104.4, 
+            "Worms": 57.6
+        }
+    }, 
+    "Karlsruhe": {
+        "Koordinaten": {
+            "Breite": "49N00", 
+            "Länge": "08E24"
+        }, 
+        "Nachbarn": {
+            "Baden-Baden": 36.0, 
+            "Heidelberg": 61.2, 
+            "Pforzheim": 31.2, 
+            "Saarbrücken": 124.8, 
+            "Speyer": 43.2
+        }
+    }, 
+    "Kassel": {
+        "Koordinaten": {
+            "Breite": "51N19", 
+            "Länge": "09E30"
+        }, 
+        "Nachbarn": {
+            "Eisenach": 81.6, 
+            "Göttingen": 45.6, 
+            "Marburg": 90.0, 
+            "Paderborn": 80.4
+        }
+    }, 
+    "Kiel": {
+        "Koordinaten": {
+            "Breite": "54N19", 
+            "Länge": "10E08"
+        }, 
+        "Nachbarn": {
+            "Flensburg": 80.4, 
+            "Lübeck": 75.6, 
+            "Neumünster": 37.2, 
+            "Norderstedt": 84.0
+        }
+    }, 
+    "Koblenz": {
+        "Koordinaten": {
+            "Breite": "50N21", 
+            "Länge": "07E35"
+        }, 
+        "Nachbarn": {
+            "Bonn": 66.0, 
+            "Frankfurt (Main)": 97.2, 
+            "Gießen": 93.6, 
+            "Neuwied": 15.6, 
+            "Wiesbaden": 66.0
+        }
+    }, 
+    "Konstanz": {
+        "Koordinaten": {
+            "Breite": "47N39", 
+            "Länge": "09E10"
+        }, 
+        "Nachbarn": {
+            "Freiburg": 127.2, 
+            "Friedrichshafen": 26.4, 
+            "Reutlingen": 108.0, 
+            "Tübingen": 115.2, 
+            "Villingen-Schwenningen": 84.0
+        }
+    }, 
+    "Krefeld": {
+        "Koordinaten": {
+            "Breite": "51N20", 
+            "Länge": "06E34"
+        }, 
+        "Nachbarn": {
+            "Meerbusch": 11.1, 
+            "Moers": 16.8, 
+            "Viersen": 18.0, 
+            "Willich": 8.4
+        }
+    }, 
+    "Köln": {
+        "Koordinaten": {
+            "Breite": "50N56", 
+            "Länge": "06E57"
+        }, 
+        "Nachbarn": {
+            "Bonn": 28.8, 
+            "Erftstadt": 21.6, 
+            "Hürth": 10.8, 
+            "Leverkusen": 15.6, 
+            "Pulheim": 14.4, 
+            "Troisdorf": 24.0
+        }
+    }, 
+    "Landshut": {
+        "Koordinaten": {
+            "Breite": "48N32", 
+            "Länge": "12E09"
+        }, 
+        "Nachbarn": {
+            "Augsburg": 114.0, 
+            "Ingolstadt": 69.6, 
+            "München": 70.8, 
+            "Passau": 117.6, 
+            "Regensburg": 63.6
+        }
+    }, 
+    "Leipzig": {
+        "Koordinaten": {
+            "Breite": "51N20", 
+            "Länge": "12E22"
+        }, 
+        "Nachbarn": {
+            "Chemnitz": 84.0, 
+            "Cottbus": 170.4, 
+            "Dresden": 121.2, 
+            "Gera": 70.8, 
+            "Halle": 36.0, 
+            "Jena": 87.6, 
+            "Potsdam": 148.8, 
+            "Zwickau": 84.0
+        }
+    }, 
+    "Leverkusen": {
+        "Koordinaten": {
+            "Breite": "51N02", 
+            "Länge": "07E00"
+        }, 
+        "Nachbarn": {
+            "Dormagen": 15.6, 
+            "Hilden": 16.8, 
+            "Köln": 15.6, 
+            "Pulheim": 19.2, 
+            "Remscheid": 22.8, 
+            "Solingen": 18.0, 
+            "Troisdorf": 33.6
+        }
+    }, 
+    "Lippstadt": {
+        "Koordinaten": {
+            "Breite": "51N40", 
+            "Länge": "08E20"
+        }, 
+        "Nachbarn": {
+            "Ahlen": 38.4, 
+            "Arnsberg": 43.2, 
+            "Gütersloh": 31.2, 
+            "Paderborn": 34.8
+        }
+    }, 
+    "Ludwigsburg": {
+        "Koordinaten": {
+            "Breite": "48N53", 
+            "Länge": "09E11"
+        }, 
+        "Nachbarn": {
+            "Aalen": 80.4, 
+            "Heilbronn": 31.2, 
+            "Pforzheim": 42.0, 
+            "Sindelfingen": 30.0, 
+            "Tübingen": 49.2, 
+            "Waiblingen": 13.2
+        }
+    }, 
+    "Lübeck": {
+        "Koordinaten": {
+            "Breite": "53N52", 
+            "Länge": "10E41"
+        }, 
+        "Nachbarn": {
+            "Hamburg": 69.6, 
+            "Kiel": 75.6, 
+            "Lüneburg": 85.2, 
+            "Neumünster": 61.2, 
+            "Norderstedt": 57.6, 
+            "Schwerin": 63.6
+        }
+    }, 
+    "Lüdenscheid": {
+        "Koordinaten": {
+            "Breite": "51N13", 
+            "Länge": "07E38"
+        }, 
+        "Nachbarn": {
+            "Arnsberg": 44.4, 
+            "Gummersbach": 24.0, 
+            "Iserlohn": 20.4, 
+            "Remscheid": 34.8, 
+            "Siegen": 57.6, 
+            "Wuppertal": 36.0
+        }
+    }, 
+    "Lüneburg": {
+        "Koordinaten": {
+            "Breite": "53N14", 
+            "Länge": "10E24"
+        }, 
+        "Nachbarn": {
+            "Celle": 87.6, 
+            "Hamburg": 50.4, 
+            "Lübeck": 85.2, 
+            "Norderstedt": 67.2
+        }
+    }, 
+    "Lünen": {
+        "Koordinaten": {
+            "Breite": "51N36", 
+            "Länge": "07E31"
+        }, 
+        "Nachbarn": {
+            "Ahlen": 37.2, 
+            "Bergkamen": 9.6, 
+            "Castrop-Rauxel": 18.0, 
+            "Dortmund": 13.2, 
+            "Unna": 16.8
+        }
+    }, 
+    "Magdeburg": {
+        "Koordinaten": {
+            "Breite": "52N07", 
+            "Länge": "11E38"
+        }, 
+        "Nachbarn": {
+            "Braunschweig": 90.0, 
+            "Halle": 90.0, 
+            "Potsdam": 123.6, 
+            "Wolfenbüttel": 86.4, 
+            "Wolfsburg": 76.8
+        }
+    }, 
+    "Mainz": {
+        "Koordinaten": {
+            "Breite": "50N00", 
+            "Länge": "08E16"
+        }, 
+        "Nachbarn": {
+            "Darmstadt": 36.0, 
+            "Frankfurt (Main)": 38.4, 
+            "Rüsselsheim": 13.2, 
+            "Wiesbaden": 10.8
+        }
+    }, 
+    "Mannheim": {
+        "Koordinaten": {
+            "Breite": "49N29", 
+            "Länge": "08E27"
+        }, 
+        "Nachbarn": {
+            "Darmstadt": 52.8, 
+            "Heidelberg": 21.6, 
+            "Kaiserslautern": 61.2, 
+            "Speyer": 20.4, 
+            "Worms": 21.6
+        }
+    }, 
+    "Marburg": {
+        "Koordinaten": {
+            "Breite": "50N48", 
+            "Länge": "08E47"
+        }, 
+        "Nachbarn": {
+            "Fulda": 84.0, 
+            "Gießen": 32.4, 
+            "Kassel": 90.0, 
+            "Siegen": 61.2, 
+            "Wetzlar": 42.0
+        }
+    }, 
+    "Meerbusch": {
+        "Koordinaten": {
+            "Breite": "51N16", 
+            "Länge": "06E41"
+        }, 
+        "Nachbarn": {
+            "Düsseldorf": 12.0, 
+            "Krefeld": 11.1, 
+            "Neuss": 10.8, 
+            "Ratingen": 14.4, 
+            "Viersen": 24.0, 
+            "Willich": 9.6
+        }
+    }, 
+    "Moers": {
+        "Koordinaten": {
+            "Breite": "51N27", 
+            "Länge": "06E38"
+        }, 
+        "Nachbarn": {
+            "Bottrop": 22.8, 
+            "Dinslaken": 16.8, 
+            "Duisburg": 8.4, 
+            "Krefeld": 16.8, 
+            "Wesel": 28.8
+        }
+    }, 
+    "Mönchengladbach": {
+        "Koordinaten": {
+            "Breite": "51N12", 
+            "Länge": "06E26"
+        }, 
+        "Nachbarn": {
+            "Grevenbroich": 19.2, 
+            "Neuss": 20.4, 
+            "Viersen": 7.2, 
+            "Willich": 13.2
+        }
+    }, 
+    "München": {
+        "Koordinaten": {
+            "Breite": "48N08", 
+            "Länge": "11E34"
+        }, 
+        "Nachbarn": {
+            "Augsburg": 68.4, 
+            "Ingolstadt": 82.8, 
+            "Landshut": 70.8, 
+            "Passau": 177.6, 
+            "Regensburg": 123.6
+        }
+    }, 
+    "Münster": {
+        "Koordinaten": {
+            "Breite": "51N57", 
+            "Länge": "07E38"
+        }, 
+        "Nachbarn": {
+            "Ahlen": 33.6, 
+            "Gütersloh": 62.4, 
+            "Osnabrück": 51.6
+        }
+    }, 
+    "Neubrandenburg": {
+        "Koordinaten": {
+            "Breite": "53N33", 
+            "Länge": "13E16"
+        }, 
+        "Nachbarn": {
+            "Berlin": 140.4, 
+            "Greifswald": 70.8, 
+            "Rostock": 112.8, 
+            "Stralsund": 98.4
+        }
+    }, 
+    "Neumünster": {
+        "Koordinaten": {
+            "Breite": "54N04", 
+            "Länge": "09E59"
+        }, 
+        "Nachbarn": {
+            "Cuxhaven": 103.2, 
+            "Flensburg": 104.4, 
+            "Kiel": 37.2, 
+            "Lübeck": 61.2, 
+            "Norderstedt": 48.0
+        }
+    }, 
+    "Neuss": {
+        "Koordinaten": {
+            "Breite": "51N12", 
+            "Länge": "06E41"
+        }, 
+        "Nachbarn": {
+            "Düsseldorf": 8.0, 
+            "Grevenbroich": 16.8, 
+            "Meerbusch": 10.8, 
+            "Mönchengladbach": 20.4, 
+            "Willich": 13.2
+        }
+    }, 
+    "Neuwied": {
+        "Koordinaten": {
+            "Breite": "50N25", 
+            "Länge": "07E27"
+        }, 
+        "Nachbarn": {
+            "Bonn": 50.4, 
+            "Euskirchen": 64.8, 
+            "Koblenz": 15.6, 
+            "Siegen": 74.4, 
+            "Trier": 115.2, 
+            "Troisdorf": 56.4
+        }
+    }, 
+    "Norderstedt": {
+        "Koordinaten": {
+            "Breite": "53N42", 
+            "Länge": "10E01"
+        }, 
+        "Nachbarn": {
+            "Hamburg": 19.2, 
+            "Kiel": 84.0, 
+            "Lübeck": 57.6, 
+            "Lüneburg": 67.2, 
+            "Neumünster": 48.0
+        }
+    }, 
+    "Nordhorn": {
+        "Koordinaten": {
+            "Breite": "52N26", 
+            "Länge": "07E04"
+        }, 
+        "Nachbarn": {
+            "Dorsten": 102.0, 
+            "Oldenburg": 132.0, 
+            "Osnabrück": 81.6, 
+            "Rheine": 36.0, 
+            "Wesel": 109.2
+        }
+    }, 
+    "Nürnberg": {
+        "Koordinaten": {
+            "Breite": "49N27", 
+            "Länge": "11E04"
+        }, 
+        "Nachbarn": {
+            "Aalen": 117.6, 
+            "Bayreuth": 79.2, 
+            "Erlangen": 19.2, 
+            "Ingolstadt": 96.0, 
+            "Regensburg": 105.6
+        }
+    }, 
+    "Offenburg": {
+        "Koordinaten": {
+            "Breite": "48N28", 
+            "Länge": "07E57"
+        }, 
+        "Nachbarn": {
+            "Baden-Baden": 44.4, 
+            "Freiburg": 64.8, 
+            "Pforzheim": 85.2, 
+            "Villingen-Schwenningen": 72.0
+        }
+    }, 
+    "Oldenburg": {
+        "Koordinaten": {
+            "Breite": "53N10", 
+            "Länge": "08E12"
+        }, 
+        "Nachbarn": {
+            "Bremen": 46.8, 
+            "Bremerhaven": 58.8, 
+            "Delmenhorst": 36.0, 
+            "Nordhorn": 132.0, 
+            "Wilhelmshaven": 46.8
+        }
+    }, 
+    "Osnabrück": {
+        "Koordinaten": {
+            "Breite": "52N17", 
+            "Länge": "08E03"
+        }, 
+        "Nachbarn": {
+            "Bielefeld": 50.4, 
+            "Delmenhorst": 114.0, 
+            "Gütersloh": 55.2, 
+            "Herford": 54.0, 
+            "Münster": 51.6, 
+            "Nordhorn": 81.6, 
+            "Rheine": 48.0
+        }
+    }, 
+    "Paderborn": {
+        "Koordinaten": {
+            "Breite": "51N43", 
+            "Länge": "08E45"
+        }, 
+        "Nachbarn": {
+            "Bielefeld": 45.6, 
+            "Detmold": 30.0, 
+            "Gütersloh": 39.6, 
+            "Kassel": 80.4, 
+            "Lippstadt": 34.8
+        }
+    }, 
+    "Passau": {
+        "Koordinaten": {
+            "Breite": "48N34", 
+            "Länge": "13E28"
+        }, 
+        "Nachbarn": {
+            "Ingolstadt": 182.4, 
+            "Landshut": 117.6, 
+            "München": 177.6, 
+            "Regensburg": 134.4
+        }
+    }, 
+    "Pforzheim": {
+        "Koordinaten": {
+            "Breite": "48N53", 
+            "Länge": "08E42"
+        }, 
+        "Nachbarn": {
+            "Baden-Baden": 43.2, 
+            "Heilbronn": 56.4, 
+            "Karlsruhe": 31.2, 
+            "Ludwigsburg": 42.0, 
+            "Offenburg": 85.2, 
+            "Sindelfingen": 36.0, 
+            "Stuttgart": 44.4
+        }
+    }, 
+    "Plauen": {
+        "Koordinaten": {
+            "Breite": "50N29", 
+            "Länge": "12E07"
+        }, 
+        "Nachbarn": {
+            "Gera": 48.0, 
+            "Hof": 30.0, 
+            "Jena": 73.2, 
+            "Zwickau": 43.2
+        }
+    }, 
+    "Potsdam": {
+        "Koordinaten": {
+            "Breite": "52N23", 
+            "Länge": "13E03"
+        }, 
+        "Nachbarn": {
+            "Berlin": 31.2, 
+            "Cottbus": 133.2, 
+            "Halle": 148.8, 
+            "Hamburg": 290.4, 
+            "Leipzig": 148.8, 
+            "Magdeburg": 123.6
+        }
+    }, 
+    "Pulheim": {
+        "Koordinaten": {
+            "Breite": "51N00", 
+            "Länge": "06E47"
+        }, 
+        "Nachbarn": {
+            "Dormagen": 12.0, 
+            "Grevenbroich": 20.4, 
+            "Hürth": 18.0, 
+            "Köln": 14.4, 
+            "Leverkusen": 19.2
+        }
+    }, 
+    "Ratingen": {
+        "Koordinaten": {
+            "Breite": "51N17", 
+            "Länge": "06E51"
+        }, 
+        "Nachbarn": {
+            "Duisburg": 19.2, 
+            "Düsseldorf": 12.0, 
+            "Hilden": 18.0, 
+            "Meerbusch": 14.4, 
+            "Velbert": 16.8
+        }
+    }, 
+    "Recklinghausen": {
+        "Koordinaten": {
+            "Breite": "51N36", 
+            "Länge": "07E11"
+        }, 
+        "Nachbarn": {
+            "Bochum": 16.8, 
+            "Castrop-Rauxel": 12.0, 
+            "Gelsenkirchen": 14.5, 
+            "Herten": 4.8
+        }
+    }, 
+    "Regensburg": {
+        "Koordinaten": {
+            "Breite": "49N01", 
+            "Länge": "12E05"
+        }, 
+        "Nachbarn": {
+            "Erlangen": 121.2, 
+            "Ingolstadt": 66.0, 
+            "Landshut": 63.6, 
+            "München": 123.6, 
+            "Nürnberg": 105.6, 
+            "Passau": 134.4
+        }
+    }, 
+    "Remscheid": {
+        "Koordinaten": {
+            "Breite": "51N11", 
+            "Länge": "07E11"
+        }, 
+        "Nachbarn": {
+            "Gummersbach": 34.8, 
+            "Hilden": 21.6, 
+            "Leverkusen": 22.8, 
+            "Lüdenscheid": 34.8, 
+            "Solingen": 9.6, 
+            "Wuppertal": 10.8
+        }
+    }, 
+    "Reutlingen": {
+        "Koordinaten": {
+            "Breite": "48N30", 
+            "Länge": "09E13"
+        }, 
+        "Nachbarn": {
+            "Friedrichshafen": 112.8, 
+            "Göppingen": 48.0, 
+            "Konstanz": 108.0, 
+            "Sindelfingen": 33.6, 
+            "Tübingen": 15.6, 
+            "Ulm": 70.8, 
+            "Villingen-Schwenningen": 87.6, 
+            "Waiblingen": 46.8
+        }
+    }, 
+    "Rheine": {
+        "Koordinaten": {
+            "Breite": "52N17", 
+            "Länge": "07E27"
+        }, 
+        "Nachbarn": {
+            "Ahlen": 78.0, 
+            "Bergkamen": 87.6, 
+            "Nordhorn": 36.0, 
+            "Osnabrück": 48.0
+        }
+    }, 
+    "Rostock": {
+        "Koordinaten": {
+            "Breite": "54N05", 
+            "Länge": "12E07"
+        }, 
+        "Nachbarn": {
+            "Greifswald": 97.2, 
+            "Neubrandenburg": 112.8, 
+            "Schwerin": 81.6, 
+            "Stralsund": 80.4
+        }
+    }, 
+    "Rüsselsheim": {
+        "Koordinaten": {
+            "Breite": "50N00", 
+            "Länge": "08E25"
+        }, 
+        "Nachbarn": {
+            "Aschaffenburg": 61.2, 
+            "Darmstadt": 25.2, 
+            "Hanau": 45.6, 
+            "Mainz": 13.2, 
+            "Wiesbaden": 19.2
+        }
+    }, 
+    "Saarbrücken": {
+        "Koordinaten": {
+            "Breite": "49N14", 
+            "Länge": "06E59"
+        }, 
+        "Nachbarn": {
+            "Kaiserslautern": 70.8, 
+            "Karlsruhe": 124.8, 
+            "Speyer": 124.8, 
+            "Trier": 75.6
+        }
+    }, 
+    "Schweinfurt": {
+        "Koordinaten": {
+            "Breite": "50N02", 
+            "Länge": "10E13"
+        }, 
+        "Nachbarn": {
+            "Bamberg": 58.8, 
+            "Erlangen": 90.0, 
+            "Fulda": 81.6, 
+            "Würzburg": 43.2
+        }
+    }, 
+    "Schwerin": {
+        "Koordinaten": {
+            "Breite": "53N37", 
+            "Länge": "11E25"
+        }, 
+        "Nachbarn": {
+            "Berlin": 217.2, 
+            "Hamburg": 112.8, 
+            "Lübeck": 63.6, 
+            "Rostock": 81.6
+        }
+    }, 
+    "Siegen": {
+        "Koordinaten": {
+            "Breite": "50N52", 
+            "Länge": "08E01"
+        }, 
+        "Nachbarn": {
+            "Gummersbach": 45.6, 
+            "Lüdenscheid": 57.6, 
+            "Marburg": 61.2, 
+            "Neuwied": 74.4, 
+            "Wetzlar": 57.6
+        }
+    }, 
+    "Sindelfingen": {
+        "Koordinaten": {
+            "Breite": "48N42", 
+            "Länge": "09E00"
+        }, 
+        "Nachbarn": {
+            "Baden-Baden": 67.2, 
+            "Ludwigsburg": 30.0, 
+            "Pforzheim": 36.0, 
+            "Reutlingen": 33.6, 
+            "Tübingen": 21.6, 
+            "Waiblingen": 30.0
+        }
+    }, 
+    "Solingen": {
+        "Koordinaten": {
+            "Breite": "51N10", 
+            "Länge": "07E05"
+        }, 
+        "Nachbarn": {
+            "Hilden": 12.0, 
+            "Leverkusen": 18.0, 
+            "Remscheid": 9.6, 
+            "Velbert": 19.2, 
+            "Wuppertal": 14.4
+        }
+    }, 
+    "Speyer": {
+        "Koordinaten": {
+            "Breite": "49N19", 
+            "Länge": "08E26"
+        }, 
+        "Nachbarn": {
+            "Heidelberg": 25.2, 
+            "Kaiserslautern": 60.0, 
+            "Karlsruhe": 43.2, 
+            "Mannheim": 20.4, 
+            "Saarbrücken": 124.8, 
+            "Worms": 40.8
+        }
+    }, 
+    "Stralsund": {
+        "Koordinaten": {
+            "Breite": "54N19", 
+            "Länge": "13E05"
+        }, 
+        "Nachbarn": {
+            "Greifswald": 33.6, 
+            "Neubrandenburg": 98.4, 
+            "Rostock": 80.4
+        }
+    }, 
+    "Stuttgart": {
+        "Koordinaten": {
+            "Breite": "48N47", 
+            "Länge": "09E11"
+        }, 
+        "Nachbarn": {
+            "Heidelberg": 96.0, 
+            "Pforzheim": 44.4, 
+            "Ulm": 86.4, 
+            "Würzburg": 151.2
+        }
+    }, 
+    "Trier": {
+        "Koordinaten": {
+            "Breite": "49N45", 
+            "Länge": "06E38"
+        }, 
+        "Nachbarn": {
+            "Euskirchen": 122.4, 
+            "Kaiserslautern": 104.4, 
+            "Neuwied": 115.2, 
+            "Saarbrücken": 75.6
+        }
+    }, 
+    "Troisdorf": {
+        "Koordinaten": {
+            "Breite": "50N50", 
+            "Länge": "07E09"
+        }, 
+        "Nachbarn": {
+            "Bonn": 12.0, 
+            "Gummersbach": 43.2, 
+            "Hürth": 25.2, 
+            "Köln": 24.0, 
+            "Leverkusen": 33.6, 
+            "Neuwied": 56.4
+        }
+    }, 
+    "Tübingen": {
+        "Koordinaten": {
+            "Breite": "48N31", 
+            "Länge": "09E03"
+        }, 
+        "Nachbarn": {
+            "Konstanz": 115.2, 
+            "Ludwigsburg": 49.2, 
+            "Reutlingen": 15.6, 
+            "Sindelfingen": 21.6, 
+            "Villingen-Schwenningen": 81.6, 
+            "Waiblingen": 45.6
+        }
+    }, 
+    "Ulm": {
+        "Koordinaten": {
+            "Breite": "48N23", 
+            "Länge": "09E59"
+        }, 
+        "Nachbarn": {
+            "Aalen": 57.6, 
+            "Augsburg": 76.8, 
+            "Friedrichshafen": 110.4, 
+            "Göppingen": 50.4, 
+            "Reutlingen": 70.8, 
+            "Stuttgart": 86.4
+        }
+    }, 
+    "Unna": {
+        "Koordinaten": {
+            "Breite": "51N32", 
+            "Länge": "07E41"
+        }, 
+        "Nachbarn": {
+            "Ahlen": 34.8, 
+            "Arnsberg": 38.4, 
+            "Bergkamen": 13.2, 
+            "Dortmund": 18.0, 
+            "Iserlohn": 21.6, 
+            "Lünen": 16.8
+        }
+    }, 
+    "Velbert": {
+        "Koordinaten": {
+            "Breite": "51N20", 
+            "Länge": "07E03"
+        }, 
+        "Nachbarn": {
+            "Hattingen": 12.0, 
+            "Ratingen": 16.8, 
+            "Solingen": 19.2, 
+            "Wuppertal": 13.2
+        }
+    }, 
+    "Viersen": {
+        "Koordinaten": {
+            "Breite": "51N15", 
+            "Länge": "06E23"
+        }, 
+        "Nachbarn": {
+            "Krefeld": 18.0, 
+            "Meerbusch": 24.0, 
+            "Mönchengladbach": 7.2, 
+            "Willich": 13.2
+        }
+    }, 
+    "Villingen-Schwenningen": {
+        "Koordinaten": {
+            "Breite": "48N04", 
+            "Länge": "08E27"
+        }, 
+        "Nachbarn": {
+            "Friedrichshafen": 108.0, 
+            "Konstanz": 84.0, 
+            "Offenburg": 72.0, 
+            "Reutlingen": 87.6, 
+            "Tübingen": 81.6
+        }
+    }, 
+    "Waiblingen": {
+        "Koordinaten": {
+            "Breite": "48N49", 
+            "Länge": "09E19"
+        }, 
+        "Nachbarn": {
+            "Aalen": 69.6, 
+            "Göppingen": 36.0, 
+            "Heilbronn": 40.8, 
+            "Ludwigsburg": 13.2, 
+            "Reutlingen": 46.8, 
+            "Sindelfingen": 30.0, 
+            "Tübingen": 45.6
+        }
+    }, 
+    "Wesel": {
+        "Koordinaten": {
+            "Breite": "51N39", 
+            "Länge": "06E36"
+        }, 
+        "Nachbarn": {
+            "Bottrop": 31.2, 
+            "Dorsten": 28.8, 
+            "Duisburg": 32.4, 
+            "Moers": 28.8, 
+            "Nordhorn": 109.2
+        }
+    }, 
+    "Wetzlar": {
+        "Koordinaten": {
+            "Breite": "50N33", 
+            "Länge": "08E30"
+        }, 
+        "Nachbarn": {
+            "Gießen": 13.2, 
+            "Marburg": 42.0, 
+            "Siegen": 57.6, 
+            "Wiesbaden": 64.8
+        }
+    }, 
+    "Wiesbaden": {
+        "Koordinaten": {
+            "Breite": "50N05", 
+            "Länge": "08E14"
+        }, 
+        "Nachbarn": {
+            "Frankfurt (Main)": 37.2, 
+            "Koblenz": 66.0, 
+            "Mainz": 10.8, 
+            "Rüsselsheim": 19.2, 
+            "Wetzlar": 64.8
+        }
+    }, 
+    "Wilhelmshaven": {
+        "Koordinaten": {
+            "Breite": "53N31", 
+            "Länge": "08E07"
+        }, 
+        "Nachbarn": {
+            "Bremen": 74.4, 
+            "Bremerhaven": 36.0, 
+            "Cuxhaven": 66.0, 
+            "Delmenhorst": 73.2, 
+            "Oldenburg": 46.8
+        }
+    }, 
+    "Willich": {
+        "Koordinaten": {
+            "Breite": "51N16", 
+            "Länge": "06E33"
+        }, 
+        "Nachbarn": {
+            "Krefeld": 8.4, 
+            "Meerbusch": 9.6, 
+            "Mönchengladbach": 13.2, 
+            "Neuss": 13.2, 
+            "Viersen": 13.2
+        }
+    }, 
+    "Witten": {
+        "Koordinaten": {
+            "Breite": "51N26", 
+            "Länge": "07E20"
+        }, 
+        "Nachbarn": {
+            "Bochum": 10.8, 
+            "Castrop-Rauxel": 15.6, 
+            "Dortmund": 15.6, 
+            "Hattingen": 14.4, 
+            "Iserlohn": 31.2
+        }
+    }, 
+    "Wolfenbüttel": {
+        "Koordinaten": {
+            "Breite": "52N09", 
+            "Länge": "10E32"
+        }, 
+        "Nachbarn": {
+            "Braunschweig": 13.2, 
+            "Celle": 70.8, 
+            "Göttingen": 98.4, 
+            "Hildesheim": 46.8, 
+            "Magdeburg": 86.4, 
+            "Wolfsburg": 40.8
+        }
+    }, 
+    "Wolfsburg": {
+        "Koordinaten": {
+            "Breite": "52N24", 
+            "Länge": "10E48"
+        }, 
+        "Nachbarn": {
+            "Braunschweig": 30.0, 
+            "Celle": 62.4, 
+            "Magdeburg": 76.8, 
+            "Wolfenbüttel": 40.8
+        }
+    }, 
+    "Worms": {
+        "Koordinaten": {
+            "Breite": "49N37", 
+            "Länge": "08E21"
+        }, 
+        "Nachbarn": {
+            "Darmstadt": 39.6, 
+            "Heidelberg": 40.8, 
+            "Kaiserslautern": 57.6, 
+            "Mannheim": 21.6, 
+            "Speyer": 40.8
+        }
+    }, 
+    "Wuppertal": {
+        "Koordinaten": {
+            "Breite": "51N16", 
+            "Länge": "07E12"
+        }, 
+        "Nachbarn": {
+            "Gummersbach": 43.2, 
+            "Hattingen": 16.8, 
+            "Lüdenscheid": 36.0, 
+            "Remscheid": 10.8, 
+            "Solingen": 14.4, 
+            "Velbert": 13.2
+        }
+    }, 
+    "Würzburg": {
+        "Koordinaten": {
+            "Breite": "49N47", 
+            "Länge": "09E55"
+        }, 
+        "Nachbarn": {
+            "Aschaffenburg": 72.0, 
+            "Bamberg": 80.4, 
+            "Erlangen": 94.8, 
+            "Fulda": 103.2, 
+            "Hanau": 98.4, 
+            "Heidelberg": 117.6, 
+            "Schweinfurt": 43.2, 
+            "Stuttgart": 151.2
+        }
+    }, 
+    "Zwickau": {
+        "Koordinaten": {
+            "Breite": "50N43", 
+            "Länge": "12E30"
+        }, 
+        "Nachbarn": {
+            "Chemnitz": 37.2, 
+            "Gera": 38.4, 
+            "Jena": 81.6, 
+            "Leipzig": 84.0, 
+            "Plauen": 43.2
+        }
+    }
+}
